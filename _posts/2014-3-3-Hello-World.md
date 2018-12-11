@@ -1,6 +1,6 @@
 ---
 layout: post
-title: You're up and running!
+title: RegEx
 ---
 
 Validation of CC's: "Validate they are the correct length, used for validatoin of CC numbers on an order form"
